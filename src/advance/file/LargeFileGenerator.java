@@ -88,7 +88,7 @@ public class LargeFileGenerator {
         String fileName = "giant_file1gb.txt";
 
         try {
-            System.out.println("Generating a 100 MB story file: " + fileName);
+            System.out.println("Generating a 1 GB story file: " + fileName);
             generateStoryFile(fileName);
             System.out.println("Story file generation completed.");
         } catch (IOException e) {

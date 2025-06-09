@@ -16,7 +16,7 @@ public class WordCountNIOvsStream {
 
     public static void main(String[] args) {
         WordCountNIOvsStream analyzer = new WordCountNIOvsStream();
-        String filePath = "fruits_100mb.txt";
+        String filePath = "giant_file1gb.txt";
 
         // Choose the method you want to run (Execute either one first for more accurate result) : 
         executeAnalysis("NIO", filePath, analyzer::getTopKeywordsByNIO);
