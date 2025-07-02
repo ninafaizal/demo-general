@@ -12,8 +12,8 @@ package merge;
 //Ensure you creating filename with your name
 public class ConflictJohnGIT {
 	
-	public String getConflict() {
-		return "mainv0.1";
+	public String getConflictBranch() {
+		return "feature-branch"; // or "branchv0.1" as you originally wrote
 	}
 
 }
