@@ -13,7 +13,7 @@ package merge;
 public class ConflictJohnGIT {
 	
 	public String getConflict() {
-		return "mainv0.1";
+		return "mainv0.2";
 	}
 
 }
