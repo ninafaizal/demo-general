@@ -14,7 +14,6 @@ public class ConflictJohnGIT {
 
 	public String getConflict() {
 		return "mainv3";
-
 	}
 
 }
