@@ -11,9 +11,9 @@ package merge;
 //Expectation, branch should take the changes from Main
 //Ensure you creating filename with your name
 public class ConflictJohnGIT {
-
-	public String getConflict() throws Exception {
-		throw new Exception("Some conflicts");
+	
+	public String getConflict() {
+		return "mainv0.1";
 	}
 
 }
