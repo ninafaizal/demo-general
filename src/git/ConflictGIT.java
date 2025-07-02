@@ -12,7 +12,7 @@ package git;
 public class ConflictGIT {
 	
 	public String getConflict() {
-		return "mainv0.1";
+		return "branchv0.1";
 	}
 
 }
