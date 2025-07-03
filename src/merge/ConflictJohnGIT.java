@@ -15,7 +15,7 @@ public class ConflictJohnGIT {
 
 	public String getConflict() {
 
-		return "branch updates v0.2";
+		return "branch updates v0.3";
 	}
 
 }
