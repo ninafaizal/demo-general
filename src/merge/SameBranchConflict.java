@@ -4,7 +4,7 @@ public class SameBranchConflict {
 
 	public String getMessage() {
 
-		return "Branch update v0.8 from Eclipse";
+		return "Branch update v0.2 from Eclipse";
 
 	}
 
