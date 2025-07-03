@@ -14,7 +14,7 @@ package merge;
 public class ConflictJohnGIT {
 
 	public String getConflict() {
-		return "main";
+		return "branch updates 0.1";
 	}
 
 }
