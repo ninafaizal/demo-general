@@ -1,7 +1,6 @@
 package merge;
 
-//TODO: DevOps Day1:Practical 3
-//Refer to DevOps Manual C - Section 2
+//TODO: DevOps - Refer to DevOps Manual B - Section 2 - Merge from branch to branch with conflict 
 
 public class SameBranchConflict {
 

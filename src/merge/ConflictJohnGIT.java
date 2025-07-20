@@ -1,7 +1,6 @@
 package merge;
 
-//TODO: DevOps Day1:Practical 2
-// Refer to DevOps Manual C - Section 1
+//TODO: DevOps - Refer to DevOps Manual B - Section 1 - Merge from branch to main with conflict 
 
 public class ConflictJohnGIT {
 
